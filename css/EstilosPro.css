@@ -1,0 +1,28 @@
+body{
+    background-color: darkgray;
+}
+header{
+    background-color: darksalmon;
+    text-align: center;
+}
+#contenido{
+    width: 80%;
+    background-color: floralwhite;
+    margin: 0% auto;
+}
+
+#imagen1{
+    padding-left: 20px;
+    padding-bottom: 20px;
+}
+
+#tabla1{
+    display: flex;
+}
+.conteiner2{
+    padding: 20px;
+}
+.conteiner2 a{
+    text-decoration: none;
+    color: gray;
+}
